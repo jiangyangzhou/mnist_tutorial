@@ -33,7 +33,8 @@ Because I failed to fetch mnist data with sklear API, I use tensorflow API to lo
   LinearSVC got test score: 91.80%  
   SVC  got test score:  94.46%   (It is too slow.......)
   
-And in pytorch part, I designed a simple convolution neural network based on Vgg Net.  
+- In pytorch part,   
+I designed a simple convolution neural network based on Vgg Net.  
 It achieved **99.38%**  score on test set.  
 Cheers!  
 Convolution neural network is very powerful, just one epoch, it achieved remarkable precision.
