@@ -26,15 +26,15 @@ Please read [HEAR](EE369.md).
 
 # For Homework readme
 I finished [`numpy_matplotlib_sklearn_solution.ipynb`] and [`pytorch_solution.ipynb`]    
-Because I failed to fetch mnist data with sklear API, I use tensorflow API to load mnist data.  
-In sklearn part,   
-LogisticRegression got test score: 92.57%  
-BernoulliNB got test score: 84.13%  
-LinearSVC got test score: 91.80%  
-SVC  got test score:  94.46%   (It is too slow.......)
+Because I failed to fetch mnist data with sklear API, I use tensorflow API to load mnist data.    
+- In sklearn part,   
+  LogisticRegression got test score: 92.57%  
+  BernoulliNB got test score: 84.13%  
+  LinearSVC got test score: 91.80%  
+  SVC  got test score:  94.46%   (It is too slow.......)
   
-And in pytorch part, I designed a simple convolution neural network based on Vgg Net.
-It achieved **99.38%**  score on test set.
+And in pytorch part, I designed a simple convolution neural network based on Vgg Net.  
+It achieved **99.38%**  score on test set.  
 Cheers!  
 Convolution neural network is very powerful, just one epoch, it achieved remarkable precision.
 
